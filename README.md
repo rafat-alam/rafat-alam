@@ -24,12 +24,12 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=shushri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shushri&theme=dark&hide_border=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=rafat-alam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafat-alam&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shushri&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rafat-alam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
